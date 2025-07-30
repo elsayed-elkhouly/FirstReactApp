@@ -4,8 +4,8 @@ import Footer from '../footer/Footer'
 const Home = () => {
   return (
     <>
-    <div className="home text-center bg-danger">
-      <div className="home-img bg-danger ">
+    <div className="home text-center ">
+      <div className="home-img ">
        <img src={photo} alt=""  className='w-25'/>
       </div>
         <h1 className=" text-white">START FRAMEWORK</h1>

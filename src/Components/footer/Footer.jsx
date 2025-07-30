@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
 <>
-<div className='bg-danger-subtle'>
+<div className='footer'>
 
 <div className="container">
     <div className="row">
@@ -29,7 +29,7 @@ const Footer = () => {
 
 </div>
 
-    <div className='text-center  bg-dark'>
+    <div className='text-center foter2'>
         <h3 className='fs-5 text-white p-5 '>Copyright © Your Website 2021</h3>
     </div>
 
