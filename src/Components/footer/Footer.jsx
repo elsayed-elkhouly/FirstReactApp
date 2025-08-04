@@ -14,10 +14,10 @@ const Footer = () => {
         </div>
         <div className="col-md-4 text-center  p-4 text-white">
           <h2>AROUND THE WEB</h2>
-          <i class="fa-brands fa-facebook fa-spin fa-spin-reverse p-1 fs-3" ></i>
-          <i class="fa-brands fa-twitter fa-spin fa-spin-reverse p-1 fs-3"></i>
-          <i class="fa-brands fa-linkedin fa-spin fa-spin-reverse p-1 fs-3"></i>
-          <i class="fa-solid fa-globe fa-spin fa-spin-reverse p-1 fs-3"></i>
+          <i className="fa-brands fa-facebook fa-spin fa-spin-reverse p-1 fs-3" ></i>
+          <i className="fa-brands fa-twitter fa-spin fa-spin-reverse p-1 fs-3"></i>
+          <i className="fa-brands fa-linkedin fa-spin fa-spin-reverse p-1 fs-3"></i>
+          <i className="fa-solid fa-globe fa-spin fa-spin-reverse p-1 fs-3"></i>
         </div>
         <div className="col-md-4  text-center  p-4 text-white">
           <h2>ABOUT FREELANCER</h2>
