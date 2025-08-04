@@ -50,7 +50,6 @@ align-items: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-image: url(./assets/images/portfolio_files/poert1.png); */
     width: 50%;
     height: 50%;
     background-repeat: no-repeat;
@@ -67,4 +66,7 @@ align-items: center;
 }
 .foter2{
     background-color: #1a252f;
+}
+.about{
+background-color: #1abc9c;
 }
