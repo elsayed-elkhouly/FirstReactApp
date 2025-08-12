@@ -8,8 +8,6 @@ const Modual = ({bk , change}) => {
         <div onClick={(bk) } className="big-img  " id='img'>
                       <div className="sm-img">
                         <img src={change} className='w-100' alt="" />
-                        sss
-
                       </div>
                     </div>
     </div>

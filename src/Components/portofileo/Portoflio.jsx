@@ -20,8 +20,13 @@ const Portoflio = () => {
  
   
   
-  function back(){
-    setdisplay(false)
+  function back(e){
+console.log(e.target.classList);
+if(e.target.classList.contains("big-img")){
+
+  setdisplay(false)
+}
+
   }
 
 
